@@ -1,0 +1,6 @@
+Margherita Pizza#//#Thin pizza dough-Tomato sauce-Mozzarella cheese#//#1#//#10000.0
+Sweet Crepes#//#Crepe batter (flour, eggs, milk)-Nutella or chocolate sauce-Banana-strawberries-Whipped cream#//#2#//#6000.0
+Fish and Chips#//#Deep-fried fish fillets coated in seasoned flour-Crispy french fries-Tartar sauce-Lemon wedge for serving#//#3#//#40000.0
+Lasagna#//#Layers of lasagna sheets-Tomato sauce with ground beef-Béchamel sauce-Mozzarella cheese#//#4#//#30000.0
+Grilled Steak#//#Grilled beef steak (ribeye or filet)-Seasoning (salt, black pepper)-Butter and fresh herbs (thyme or rosemary)-Served with mashed potatoes and steamed vegetables#//#5#//#40000.0
+Spagiti#//#Makrona-oil#//#6#//#3000.0

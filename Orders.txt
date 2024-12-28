@@ -1,0 +1,6 @@
+jamel#//#Margherita Pizza#//#4#//#51453.0#//#Delivery
+lara#//#Sweet Crepes#//#4#//#32324.0#//#Delivery
+lara#//#Sweet Crepes#//#4#//#32324.0#//#Inside Restaurant
+lana#//#Margherita Pizza#//#10#//#120000.0#//#Delivery
+Lamak#//#Sweet Crepes#//#4#//#34000.0#//#Inside Restaurant
+Lamak#//#Spagiti#//#2#//#10000.0#//#Inside Restaurant
